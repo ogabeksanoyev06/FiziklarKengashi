@@ -1,17 +1,49 @@
 <template>
   <div class="home-page">
-    <div class="container">
-      Lorem ipsum dolor sit, amet consectetur adipisicing elit. Maiores eos dolorem id excepturi, consequuntur dicta assumenda odit nulla hic explicabo aspernatur ipsum illo iste enim eius vel similique in nemo libero rem odio molestiae! Beatae, voluptate! Pariatur exercitationem ratione iste sunt repudiandae ducimus ad? Animi amet minima repellendus, deleniti esse harum maiores molestiae, dolorum minus fugit aliquam consequuntur omnis veniam! Voluptate quidem, iure aliquid dolores impedit consequuntur dolore expedita magnam deserunt omnis sapiente sequi quod nesciunt laudantium ut. Sint, harum. Natus fugiat labore ducimus. Itaque, a reiciendis! Cumque asperiores doloremque sed sunt iure quas labore dolore assumenda nihil maxime dolorem aliquam fugit at eligendi eveniet ipsam, illum laborum recusandae architecto corrupti! Tempore porro ducimus magnam voluptates libero nulla eum ipsam! Consequuntur error harum debitis quidem. Non, recusandae libero aliquid, earum veritatis omnis molestias sed maxime explicabo, odio nobis provident et minus! Doloribus, ipsa distinctio illo neque quis ratione inventore nam dolor, in cupiditate animi quam commodi nostrum reprehenderit excepturi dignissimos sint numquam iusto sunt eos nihil possimus officiis. Accusantium animi, debitis sed culpa reiciendis laudantium minus saepe necessitatibus nulla atque hic harum vitae ducimus rem minima blanditiis rerum suscipit illum dolores. Maxime excepturi cumque officiis consectetur laborum corrupti vel voluptas maiores tempora ut alias, dignissimos at sequi quibusdam ipsam fuga beatae quidem fugiat aut corporis ipsa porro? Enim tempore aliquam, provident exercitationem saepe accusantium, est veniam quod nostrum reiciendis repudiandae error officia non magni vitae cupiditate nulla quos recusandae fugiat accusamus! Non possimus dolorum deleniti quas, cumque obcaecati molestias officia est impedit atque quis. Quasi atque inventore itaque hic dolorem nisi possimus excepturi eius totam quam minima et illum quos similique sunt id, fugiat velit maxime magnam culpa rerum asperiores. Doloremque vel illum nesciunt nisi rerum dolores nemo quos? Excepturi, ab, placeat possimus nemo inventore rerum in ut at architecto cum sequi minus? Placeat, officia laborum libero praesentium voluptatem possimus perferendis modi error eveniet dolor dolore omnis similique quos dolorum minus obcaecati explicabo quia fugiat assumenda. Adipisci velit magni, fuga corrupti delectus dolore excepturi facere quasi fugit soluta nam minima quod cupiditate expedita debitis deserunt unde tempora accusamus nostrum beatae dignissimos reprehenderit vitae nesciunt culpa? Eos vel excepturi commodi delectus esse nesciunt similique ullam officiis dolorem voluptatum. Illum mollitia, modi doloremque impedit qui perspiciatis eos aperiam sint cumque, blanditiis ab officia officiis hic assumenda saepe molestiae debitis. Eum numquam qui dolorem? Iste unde nobis voluptatem possimus laboriosam dignissimos ipsum illum, tempore enim voluptatibus aperiam debitis, sint repellat temporibus. Similique nemo a, quam culpa assumenda sunt unde ullam, facilis suscipit fugit itaque sint nihil? Nostrum fugit beatae iure neque aliquid. Commodi, ducimus quis? Nam, sunt obcaecati accusamus id doloribus maiores natus voluptatem eaque asperiores! Voluptatibus ex eveniet molestiae quia accusamus consequuntur cum ut a? Illum, quaerat alias? Accusantium id quos inventore suscipit ducimus minus soluta. Dignissimos numquam, ea quaerat libero sint atque placeat, animi debitis incidunt illum veritatis a cumque! Ullam nam accusantium, quaerat at omnis in tenetur aliquid, assumenda, enim ipsum officia fuga impedit. Dolor ab recusandae nisi corrupti sequi ea placeat, labore nemo quod aut aspernatur voluptates deleniti maiores repellendus ex, tenetur numquam fuga voluptatibus porro commodi quas enim. Est necessitatibus quam, debitis tenetur veritatis commodi velit, libero itaque sed tempora magnam alias ea eum. Itaque vitae animi eligendi dolore quia pariatur quisquam ullam commodi aliquam officiis sed sapiente tempora dicta possimus vero est enim ea expedita distinctio, reiciendis fugiat. Hic repellat blanditiis expedita nam excepturi veritatis! Blanditiis, natus in corporis quod necessitatibus iste, vero assumenda vel a voluptate rerum perspiciatis quasi. Nostrum vel ducimus quod repellendus provident eligendi quas iure architecto beatae iusto nulla eius illo fugit quis suscipit, fugiat adipisci! Ipsum provident, voluptatibus quos repudiandae voluptas illo cupiditate molestiae sed ex odit dolorem nisi ea molestias illum asperiores necessitatibus et placeat quae dolore natus! Dolore provident sed aspernatur quidem labore nobis maiores earum doloribus deleniti, molestiae laborum nisi mollitia! Ipsa dolor ratione aliquam odit rem earum laborum, porro tempore cupiditate suscipit. Provident delectus cupiditate quaerat culpa nisi, illo soluta nam in natus amet optio quibusdam itaque inventore fugit atque deserunt quam. Incidunt obcaecati fugit doloribus architecto rem, accusantium illo assumenda voluptates fuga ducimus perspiciatis aut ipsa minima quisquam voluptatem. Corporis molestias expedita commodi placeat velit distinctio labore minus laborum eius soluta quam ab, neque nostrum nobis inventore sunt unde? Veritatis modi quisquam perferendis beatae facere, assumenda velit quos quam sunt? Unde nihil optio quas distinctio voluptate ex aspernatur repudiandae ea vero quod, nulla, dolorem nam aut aperiam quidem corrupti illum ducimus iste. Harum hic corrupti, reprehenderit quaerat blanditiis temporibus soluta reiciendis. Officiis quia mollitia deserunt consectetur soluta sequi, quaerat eius inventore incidunt laboriosam consequatur voluptates ducimus nobis dolorum provident modi corporis! Quia nesciunt laudantium saepe aliquid quis quasi nisi doloribus magni? Labore reprehenderit natus fugit quo autem modi sunt, voluptas iure, in earum deserunt aspernatur, ut fuga similique temporibus quam harum consectetur excepturi eos veniam! Nam, amet beatae facere dolorem laboriosam reiciendis ipsum porro debitis minus. Tenetur provident explicabo quasi. Saepe natus, rerum esse ex nam numquam sint ab molestias culpa omnis quam nesciunt repellat illo cupiditate excepturi ratione eum veritatis perferendis accusantium earum autem ad veniam unde? Sequi quos expedita laborum adipisci facere, magnam eligendi unde. Voluptatum numquam nihil obcaecati dolore quod tenetur, officia, non dignissimos vel laudantium illum voluptates doloremque id fuga nulla atque, modi ipsum soluta. Ratione illum nostrum maiores qui omnis. Quasi placeat at dignissimos tempora soluta sunt minus voluptate est asperiores sequi magnam, culpa quae quas accusamus nulla facilis, blanditiis perferendis veniam magni dicta. Provident suscipit neque sit quibusdam sint mollitia architecto laboriosam earum sunt, ipsam facilis sequi nemo nostrum ratione aperiam. Cumque quae illo error, blanditiis ad fuga fugiat. Laborum modi, beatae a, sit harum mollitia aliquam inventore similique odit maxime corrupti consequatur dolore pariatur velit? Vitae ducimus beatae, amet hic dicta quasi ex libero impedit animi facilis repudiandae cum, eos earum culpa, rerum nam iusto vero quidem ea adipisci incidunt. Blanditiis saepe minima magnam repellat aut quisquam animi. Architecto aspernatur ab eveniet veritatis. Ducimus labore repellendus deserunt quis, vel assumenda.
-    </div>
+    <HeroBanner />
+    <section class="container mt-20">
+      <CtaBanner
+        title="Lorem Ipsum is simply dummy text of the printing and typesetting industr"
+        content="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+        buttonText="Batafsil"
+        photo="/images/cta-banner/bannerOne.png"
+      />
+    </section>
+    <section class="container mt-20">
+      <CtaBanner
+        title="Lorem Ipsum is simply dummy text of the printing and typesetting industr"
+        content="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+        buttonText="Batafsil"
+        photo="/images/cta-banner/bannerTwo.png"
+        orderOne="2"
+        orderTwo="1"
+      />
+    </section>
   </div>
 </template>
 
 <script>
+import HeroBanner from "@/components/pages/home/HeroBanner.vue";
+import CtaBanner from "@/components/pages/home/CtaBanner.vue";
+import { mapMutations } from "vuex";
 export default {
   name: "app-home",
-  components: {},
+  components: { HeroBanner, CtaBanner },
   data() {
     return {};
+  },
+  methods: {
+    ...mapMutations(["setWindowWidth"]),
+    setWidth() {
+      this.setWindowWidth(document.documentElement.clientWidth);
+    },
+  },
+  mounted() {
+    window.addEventListener("resize", this.setWidth);
+    this.setWidth();
+  },
+  beforeDestroy() {
+    window.removeEventListener("resize", this.setWidth);
   },
 };
 </script>

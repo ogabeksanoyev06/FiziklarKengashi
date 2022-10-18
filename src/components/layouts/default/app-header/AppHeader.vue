@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <headroom>
     <header class="header">
       <div class="container">
         <div class="header-top header__inner">
@@ -21,7 +21,7 @@
                   placeholder="Nimani o’rganishni xohlaysiz?"
                   class="header-search__input"
                 />
-                <button type="submit" class="header-search__btn a_btn">
+                <button type="submit" class="header-search__btn">
                   <img src="/icons/search.svg" alt="ico" />
                 </button>
               </form>
@@ -34,7 +34,7 @@
               v-on-click-outside:excludedClass="hideLanguageDropdown"
             >
               <div class="header__lang">
-                <!-- <img src="/icons/globe.svg" alt="" /> -->
+                <img class="icons" src="/icons/langUz.svg" alt="" />
                 <span>O'zbekcha</span>
                 <img src="/icons/angle-bottom.svg" alt="" />
               </div>
@@ -57,12 +57,14 @@
                 </div>
               </transition>
             </div>
-            <button class="header__auth-btn a_btn">
-              <router-link to="/" class="header__auth-link">
+
+            <router-link to="/" class="header__auth-link">
+              <button class="header__auth-btn a_btn">
                 <img src="/icons/accaunt.svg" alt="" />
                 <span>Kirish</span>
-              </router-link>
-            </button>
+              </button>
+            </router-link>
+
             <button class="humbergur__btn a_btn">
               <img src="/icons/hamburger.svg" alt="" />
             </button>
@@ -90,14 +92,15 @@
         </div>
       </div>
     </header>
-  </div>
+  </headroom>
 </template>
 
 <script>
 import "./header.css";
+import { headroom } from "vue-headroom";
 export default {
   name: "AppHeader",
-  components: {},
+  components: { headroom  },
   data() {
     return {
       languageDropdown: false,
