@@ -280,6 +280,7 @@ button.header__auth-btn::before {
   }
   .humbergur__btn {
     display: flex;
+    background-color: beige;
   }
   .header__inner {
     padding: 5px 0;
@@ -289,5 +290,8 @@ button.header__auth-btn::before {
   }
   .header-bot {
     padding: 5px 0;
+  }
+  .header-search__cat {
+    margin: 0;
   }
 }
