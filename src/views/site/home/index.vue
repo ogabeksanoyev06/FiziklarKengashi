@@ -19,16 +19,20 @@
         orderTwo="1"
       />
     </section>
+    <section class="container">
+      <news />
+    </section>
   </div>
 </template>
 
 <script>
 import HeroBanner from "@/components/pages/home/HeroBanner.vue";
 import CtaBanner from "@/components/pages/home/CtaBanner.vue";
+import News from "@/components/pages/home/News.vue";
 import { mapMutations } from "vuex";
 export default {
   name: "app-home",
-  components: { HeroBanner, CtaBanner },
+  components: { HeroBanner, CtaBanner, News },
   data() {
     return {};
   },
