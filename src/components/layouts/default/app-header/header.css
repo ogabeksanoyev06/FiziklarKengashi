@@ -28,17 +28,14 @@
 .logo {
   max-width: 150px;
   width: 100%;
-  max-height: 50px;
+  height: 42px;
   overflow: hidden;
-  display: flex;
-  align-items: center;
+  margin-right: 10px;
 }
 .logo img {
-  max-width: 80px !important;
-  height: 100% !important;
+  width: 100%;
   -o-object-fit: contain;
   object-fit: contain;
-  margin-right: 6px;
 }
 .logo .logo__title {
   font-style: normal;

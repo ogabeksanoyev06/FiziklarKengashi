@@ -9,16 +9,27 @@
 </template>
 
 <script>
+import { mapMutations } from "vuex";
 import AppFooter from "../components/layouts/default/app-footer/AppFooter";
 import AppHeader from "../components/layouts/default/app-header/AppHeader";
 
 export default {
   name: "MainLayout",
   components: { AppHeader, AppFooter },
-  methods: {},
+  methods: {
+    ...mapMutations(["setWindowWidth"]),
+    setWidth() {
+      this.setWindowWidth(document.documentElement.clientWidth);
+    },
+  },
 
-  mounted() {},
-  beforeDestroy() {},
+  mounted() {
+    this.setWidth();
+    window.addEventListener("resize", this.setWidth);
+  },
+  beforeDestroy() {
+    window.removeEventListener("resize", this.setWidth);
+  },
 };
 </script>
 

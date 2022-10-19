@@ -6,9 +6,6 @@
           <div class="header__left">
             <router-link to="/" class="logo">
               <img src="/svg/logo.svg" alt="logo" />
-              <p class="logo__title">
-                <span>Fizika-Texnika</span><br />Instituti
-              </p>
             </router-link>
             <button class="header-search__cat a_btn">
               <img src="/icons/hamburger.svg" alt="" />
@@ -100,7 +97,7 @@ import "./header.css";
 import { headroom } from "vue-headroom";
 export default {
   name: "AppHeader",
-  components: { headroom  },
+  components: { headroom },
   data() {
     return {
       languageDropdown: false,

@@ -15,8 +15,8 @@
         content="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry."
         buttonText="Batafsil"
         photo="/images/cta-banner/bannerTwo.png"
-        orderOne="2"
-        orderTwo="1"
+        :orderOne="2"
+        :orderTwo="1"
       />
     </section>
     <section class="container">
